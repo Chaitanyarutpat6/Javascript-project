@@ -27,7 +27,7 @@ let h2 = document.querySelector("h2");
        btn.classList.remove("userflash");
    },200);
 }
-
+// function for level up
  function levelup(){
    userseq=[];
     level++;
